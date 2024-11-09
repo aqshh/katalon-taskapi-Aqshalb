@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Token, PostBooking, UpdateBooking, DeleteBooking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb3c8b65-2faa-405e-94fb-5a515bb4a7eb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e5af645f-a650-4974-a359-aacbfcaa11ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.myToken</defaultValue>
+      <description></description>
+      <id>e5af645f-a650-4974-a359-aacbfcaa11ee</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

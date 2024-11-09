@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Get by ID_1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>abd20cb8-3b62-4131-9396-a376d1070e6d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e58e2551-cef4-4698-87f7-a97ed0cbd690</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.baseURL</defaultValue>
+      <description></description>
+      <id>e58e2551-cef4-4698-87f7-a97ed0cbd690</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
