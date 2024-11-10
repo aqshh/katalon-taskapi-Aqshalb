@@ -29,7 +29,7 @@ dan dibuat juga `Test Suites Collection` agar dapat menjalankan beberapa `Test S
 TSC All
 ```
 
-## End Point
+# End Point
 End Point yang diuji pada project ini adalah:
 
 ### POST Token
