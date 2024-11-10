@@ -87,3 +87,7 @@ untuk menghapus data bookingt berdasarkan id
 https://restful-booker.herokuapp.com/booking/1
 ```
 Akan menghasilkan response code ```201 Created``` dan data terhapus.
+
+
+### Dibuat Oleh
+AqshalB
